@@ -1,0 +1,13 @@
+.venv/
+venv/
+token.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+*.swp
+*.tmp
